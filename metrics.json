@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "data": "synthetic analytical model",
+  "train_samples": 1000,
+  "held_out_samples": 400,
+  "test_rmse": 1.0077804059034304e-06,
+  "mean_baseline_rmse": 0.005306707634242919,
+  "max_absolute_test_error": 6.206879378897745e-06,
+  "out_of_physical_range_count": 0
+}
